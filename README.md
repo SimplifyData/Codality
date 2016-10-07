@@ -22,5 +22,5 @@ According to the [Codility Programmer Terms of Service](https://codility.com/ter
 
 ---
 
-Copyright (c) 2016 - 2017 Atif Zafar/ Simplify Data
+Copyright (c) 2016 Atif Zafar/ Simplify Data
 Licensed under the [MIT License](https://github.com/SimplifyData/Codality/blob/master/LICENSE)
